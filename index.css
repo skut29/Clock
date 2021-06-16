@@ -1,0 +1,32 @@
+/*CLOCK*/
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+	background: url(bg/z-w-gu-img-20160603-171658.jpg);
+	
+}
+
+#clock {
+	height: 100vh;
+	width: 100%;
+	background-color: transparent;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+}
+
+/*NAVBAR*/
+ul {
+    list-style-type: none;
+}
+
+
+
+/*BGCHANGER*/
+#bgOption2Div {
+	background:
+}
